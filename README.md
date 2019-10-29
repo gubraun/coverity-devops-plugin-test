@@ -1,0 +1,1 @@
+# coverity-devops-plugin-test
